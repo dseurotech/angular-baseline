@@ -1,3 +1,6 @@
+# The only purporse of this repo is to show the baseline of a project generated with Angular CLI, for evaluation of candidate's solutions.
+
+
 # Baseline
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
